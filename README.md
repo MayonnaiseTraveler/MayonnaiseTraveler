@@ -1,8 +1,8 @@
 
 
-
-<p>⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆</p>
 <div align="center" id="user-content-toc">
+
+<p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
   <h3>.ᯓ★   Hiii Welcome to my github profile !!!   ｡𖦹°‧</h3>
   <br>
   <ul>
@@ -10,24 +10,23 @@
   </ul>
   <br>
   <h3><b>⋆☕︎ ˖</b>  About me: <b>⋆☕︎ ˖</b>  </h3>
-</div>
-<p>⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆</p>
-
+<p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
 <br>
 
-★ I'm developing a 2D platformer game framework in C with SDL2 and a personal website ★
+★ I'm developing a 2D platformer game framework in C with [SDL](https://www.libsdl.org/) ★
 
-★ I'm a college student at UFSC ★
+★ And also a personal Website ★
 
-★ I mainly code in C, but i also know python,node,bash,some java,etc ★
+★ I'm a college student at [UFSC](https://ufsc.br/) ★
 
-★ I own a crkbd v2, soldered and assembled it myself ★
+★ I mainly code in C, but also know python, node, bash, java, etc ★
+
+★ I own a [crkbd v2](https://github.com/foostan/crkbd), soldered and assembled it myself ★
 
 ★ I use arch btw 𑣲₍ ᐢ. .ᐢ₎ ★
 
 <br>
-<p>⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆</p>
-<div align="center">
+<p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
 <pre>⠀⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀
 ⠀⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀⠀⣼⠃⠀⠘⢧⠀⠀
